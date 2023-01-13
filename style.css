@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  line-height: 2;
+  background-color: #A0615F;
+  
+}
+
+.card {
+  background-color:cadetblue;
+  border-radius: 10px;
+  height: 90vh;
+  margin: 30px;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
