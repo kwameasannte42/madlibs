@@ -9,9 +9,12 @@ body {
   background-color:cadetblue;
   border-radius: 10px;
   height: 90vh;
-  margin: 30px;
+  margin: auto;
   color: white;
   font-family: monospace;
   font-size: 18px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  max-width: 500px;
+  word-wrap: break-word;
+  padding: 10px;
 }
